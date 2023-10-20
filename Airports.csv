@@ -23,9 +23,7 @@ Edenton,EDE,EDE,KEDE,Northeastern Regional Airport,GA,0,36.03,-76.57
 Elizabeth City,ECG,ECG,KECG,Elizabeth City Regional Airportÿ/ÿCGAS Elizabeth City,GA,"1,087",36.26,-76.17
 Elizabethtown,EYF,,KEYF,Curtis L. Brown Jr. Field,GA,11,34.60,-78.58
 Elkin,ZEF,,KZEF,Elkin Municipal Airport,GA,0,36.28,-80.79
-Engelhard,7W6,,,Hyde County Airport,GA,0,40.75,-93.24
 Erwin,HRJ,,KHRJ,Harnett Regional Jetportÿ(was Harnett County Airport),GA,0,35.38,-78.73
-Franklin,1A5,,,Macon County Airport,GA,19,40.75,-93.24
 Gastonia,AKH,,KAKH,Gastonia Municipal Airport,GA,"16,916",35.20,-81.15
 Goldsboro,GWW,,KGWW,Wayne Executive Jetportÿ(was Goldsboro-Wayne Municipal Airport),GA,91,35.46,-77.96
 Hatteras,HSE,HNC,KHSE,Billy Mitchell Airport,GA,25,35.23,-75.62
@@ -44,7 +42,6 @@ Morganton,MRN,MRN,KMRN,Foothills Regional Airportÿ(was Morganton-Lenoir Airport
 Mount Airy,MWK,,KMWK,Mount Airy/Surry County Airport,GA,7,36.46,-80.55
 North Wilkesboro,UKF,IKB,KUKF,Wilkes County Airport,GA,46,36.22,-81.10
 Oak Island,SUT,,KSUT,Cape Fear Regional Jetportÿ(Howie Franklin Field)ÿ(was Brunswick County),GA,59,33.93,-78.07
-Ocracoke,W95,,,Ocracoke Island Airport,GA,0,40.75,-93.24
 Oxford,HNZ,,KHNZ,Henderson-Oxford Airportÿ(Oxford Henderson Airport),GA,15,36.36,-78.53
 Pinehurstÿ/ÿSouthern Pines,SOP,SOP,KSOP,Moore County Airport,GA,183,35.24,-79.39
 Plymouth,PMZ,,KPMZ,Plymouth Municipal Airport,GA,0,35.81,-76.76
@@ -59,7 +56,6 @@ Shelby,EHO,,KEHO,Shelby-Cleveland County Regional Airportÿ(was Shelby Municipal
 Siler City,SCR,,KSCR,Siler City Municipal Airport,GA,0,41.48,-75.77
 Smithfield,JNX,,KJNX,Johnston Regional Airport,GA,5,35.54,-78.39
 Statesville,SVH,SVH,KSVH,Statesville Regional Airportÿ(was Statesville Municipal Airport),GA,22,35.77,-80.95
-Sylva,24A,,,Jackson County Airport,GA,0,40.75,-93.24
 Tarboro,ETC,,KETC,Tarboro-Edgecombe Airportÿ(Tarboro-Edgecombe County),GA,0,35.94,-77.55
 Wadesboro,AFP,,KAFP,Anson County Airportÿ(Jeff Cloud Field),GA,0,35.02,-80.08
 Wallace,ACZ,,KACZ,Henderson Field,GA,0,34.72,-78.00
@@ -100,7 +96,6 @@ Wilson,W03,,KW03,Wilson Industrial Air Center,,,35.77,-77.97
 Winterville,05N,,NC47,South Oaks Aerodrome,,,35.48,-77.36
 Yadkinville,80C,,,Lone Hickory Airport,,,36.06,-80.69
 Yanceyville,6W4,,,Yanceyville Municipal Airport,,,36.40,-79.39
-,,,,Other military airports,,,40.75,-93.24
 Atlantic,12NC,,,MCOF Atlantic,,,34.88,-76.35
 Camp Mackall,HFF,HFF,KHFF,Mackall Army Airfieldÿ(atÿCamp Mackall),,,35.04,-79.50
 Cherry Point,NKT,NKT,KNKT,MCAS Cherry Pointÿ(Cunningham Field),,,34.90,-76.88
@@ -121,7 +116,6 @@ Morganton,92NC,,,Grace Hospital Heliport,,"17,122",35.73,-81.65
 Pink Hill,NR10,,4W9,Pink Hill Airport,,,35.05,-77.74
 Archdale,72A,,AR98,Johnson Fieldÿ(closed 2006?)ÿ[4],,,35.26,-91.19
 Chapel Hill,IGX,,KIGX,Horace Williams Airportÿ(closed 2018)ÿ[5],,,35.94,-79.07
-Charlotte,8A6,QWG,,Wilgrove Air Parkÿ(closed 2020)ÿ[7],,,40.75,-93.24
 Mebane,4W7,,,Hurdle Field,,,36.07,-79.28
 Potters Hill,6N9,,,Eagles Nest Airport,,,34.98,-77.70
 Roanoke Rapids,RZZ,RZZ,KRZZ,Halifax County Airportÿ(closed permanently),GA,,36.44,-77.71
