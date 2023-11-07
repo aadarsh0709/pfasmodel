@@ -1,8 +1,5 @@
 import requests
 
-
-
-
 def get_elevation(lat, lon):
     url = f"https://api.opentopodata.org/v1/aster30m?locations={lat},{lon}"
     r = requests.get(url)
